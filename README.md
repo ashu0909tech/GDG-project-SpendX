@@ -1,3 +1,3 @@
 # GDG-project-SpendX
-Personal Finance Analysi
+Personal Finance Analysis
 
